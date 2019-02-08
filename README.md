@@ -11,7 +11,9 @@ Django REST Framework - a flexible toolkit to build web APIs
 SQLite - this is a database server
 
 
-# Running application - Clone and use command 'docker-compose up' if you've docker running on your machine.
+# Running application - 
+    - Clone and use command 'docker-compose up' if you've docker running on your machine.
+    OR
     - cd music_service
     - virtualenv venv
     - source venv/bin/activate
