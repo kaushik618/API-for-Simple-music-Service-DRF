@@ -3,7 +3,7 @@ Developed a simple music API using Django rest framework(DRF), DRF-JWT for Auth,
 Currently I've written only for adding and editting Songs, Work in progress to add other functionlaties. 
 
 Access all my Fav Song list using the API on "127.0.0.1:8000/api/v1/songs"
-"127.0.0.1:8000/admin" - For Login Page 
+    "127.0.0.1:8000/admin" - For Login Page 
 
 # Technology stack - 
 Django,
